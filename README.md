@@ -1,4 +1,4 @@
-# Hello there I am Viral Bhadeshiya👋
+# Hello my name is Jenny Lee👋
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
