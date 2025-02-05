@@ -2,7 +2,7 @@
 
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px" />
+    <img src="https://www.flaticon.es/icono-gratis/logotipo-de-github_25231" />
 </div>
 
 <br/>
