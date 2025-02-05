@@ -2,7 +2,7 @@
 
 
 <div align="center">
-    <img src="https://www.freepik.es/foto-gratis/imagen-primer-plano-programador-trabajando-su-escritorio-oficina_5698344.htm#fromView=keyword&page=3&position=8&uuid=51fc917a-ba05-4a59-a276-02e5800c9eec&query=Github" />
+    <img src="https://www.freepik.es/foto-gratis/imagen-primer-plano-programador-trabajando-su-escritorio-oficina_5698344.htm"
 </div>
 
 <br/>
